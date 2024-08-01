@@ -1,2 +1,8 @@
 dokken/centos-stream-9:latest
 nginx
+cnych/tekton-kubeconfigwriter:v0.24.1
+cnych/tekton-git-init:v0.24.1
+cnych/tekton-entrypoint:v0.24.1
+cnych/tekton-nop:v0.24.1
+cnych/tekton-imagedigestexporter:v0.24.1
+cnych/tekton-pullrequest-init:v0.24.1
