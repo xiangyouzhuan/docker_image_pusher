@@ -1,1 +1,2 @@
 dokken/centos-stream-9:latest
+nginx
