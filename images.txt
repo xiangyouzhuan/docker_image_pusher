@@ -6,4 +6,4 @@ cnych/tekton-entrypoint:v0.24.1
 cnych/tekton-nop:v0.24.1
 cnych/tekton-imagedigestexporter:v0.24.1
 onlyoffice/communityserver:latest
-
+onlyoffice/documentserver:latest
