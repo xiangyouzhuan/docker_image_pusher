@@ -8,3 +8,9 @@ cnych/tekton-imagedigestexporter:v0.24.1
 onlyoffice/communityserver:latest
 onlyoffice/documentserver:latest
 hengyunabc/arthas:4.0.5
+ubuntu/squid:6.13-25.04_beta
+semitechnologies/weaviate:1.27.0
+busybox:latest
+langgenius/dify-web:1.13.3
+redis:6-alpine
+postgres:15-alpine
